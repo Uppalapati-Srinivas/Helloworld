@@ -15,5 +15,6 @@ pipeline {
 				bat """ java MyDate"""
 				}
 			}
+	 }
 			
 	}
